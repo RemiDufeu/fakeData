@@ -1,0 +1,9 @@
+{
+    "power": true,
+    "level": 0.5,
+    "currentMode": "COSY",
+    "modes": [
+        {"name": "COSY", "streaming": false, "color" : ["rgb(255, 0, 0)"]},
+        {"name": "COLOR", "streaming": false, "color" : ["rgb(180, 0, 90)"]}
+    ]
+}
